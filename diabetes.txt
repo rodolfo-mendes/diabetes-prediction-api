@@ -1,0 +1,30 @@
+- describe the project
+- choose a dataset
+- create a basic model
+- design a rest api
+- implement the api
+- package the api to a Docker container
+- create a project in GCP
+- create a Kubernetes cluster
+- deploy the container
+- improve the model
+
+
+- create a basic model
+    - download the dataset
+    - load the dataset
+    - use full data to train the model
+    - serialize model to file
+
+- create rest API
+    - design the API
+    - implement API with FastAPI
+        - load model
+        - forward request to predicttion
+        
+
+-----
+FastAPI installation
+    - install visual studio c++ build tools
+    - install Rust
+    - install FastAPI with pip
